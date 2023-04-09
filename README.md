@@ -1,16 +1,31 @@
-# movies_flutter
+# Flutter Movie App
 
-A new Flutter project.
+Это приложение для просмотра информации о фильмах, состоящее из двух экранов: одного со списком фильмов и другого с детальной информацией о конкретном фильме.
 
-## Getting Started
+## Особенности
 
-This project is a starting point for a Flutter application.
+- Два экрана: список фильмов и детальная информация о фильме
+- Использование `get_it` для Dependency Injection (DI)
+- Использование `dio` для работы с сетью
+- Поддержка мультиязычности с использованием `l10n`
 
-A few resources to get you started if this is your first Flutter project:
+## Установка и запуск
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Клонируйте репозиторий с проектом:
+git clone https://github.com/yourusername/your-repo.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Перейдите в директорию проекта:
+cd your-repo
+
+3. Установите зависимости:
+flutter pub get
+
+4. Запустите приложение на эмуляторе или физическом устройстве:
+
+## Библиотеки и инструменты
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [get_it](https://pub.dev/packages/get_it)
+- [dio](https://pub.dev/packages/dio)
+- [l10n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
