@@ -1,0 +1,10 @@
+{
+  "movie_detail_app_bar_title": "Информация о фильме",
+  "movie_list_app_bar_title": "Список фильмов",
+  "actors": "Актёры:",
+  "director": "Директор:",
+  "year": "Год:",
+  "plot": "Описание:",
+  "empty_state": "Хэй, напиши что-нибудь!",
+  "search": "Поиск"
+}
