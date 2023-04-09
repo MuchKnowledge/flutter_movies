@@ -1,0 +1,10 @@
+{
+  "movie_detail_app_bar_title": "Movie Details",
+  "movie_list_app_bar_title": "Movie Lis",
+  "actors": "Actors:",
+  "director": "Director:",
+  "year": "Year:",
+  "plot": "Plot:",
+  "empty_state": "Yoooooo, type something!",
+  "search": "Search"
+}
